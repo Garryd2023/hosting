@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19e32b96-c931-4683-9507-1ccbfd805a34" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/http-api/maven-metadata.xml.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-api/maven-metadata.xml.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/com/openosrs/runelite-client/maven-metadata.xml.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/4.10.0/http-api-4.10.0.module.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/http-api/maven-metadata.xml.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/4.10.0/runelite-api-4.10.0.module.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-api/maven-metadata.xml.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0-shaded.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.jar.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/4.10.0/runelite-client-4.10.0.module.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.md5" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.md5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.sha1" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.sha1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.sha256" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.sha256" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.sha512" beforeDir="false" afterPath="$PROJECT_DIR$/repo/stable/com/openosrs/runelite-client/maven-metadata.xml.sha512" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable/http-api-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/stable/http-api-4.10.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stable/runelite-client-4.10.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/stable/runelite-client-4.10.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LC1tcBP4WyS2Zi5v88JgV7ohXE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19e32b96-c931-4683-9507-1ccbfd805a34" name="Changes" comment="" />
+      <created>1675360465732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675360465732</updated>
+    </task>
+    <servers />
+  </component>
+</project>
